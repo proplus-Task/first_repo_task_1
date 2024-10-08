@@ -5,6 +5,8 @@ import 'package:provider_example_prj/provider_page/home_provide_page.dart';
 import 'package:provider_example_prj/provider_page/login_provider.dart';
 import 'package:provider_example_prj/routes/app_routes.dart';
 
+/// Gowtham MK
+
 
 // final GlobalKey<NavigatorState> navigatorKey = new GlobalKey<NavigatorState>();
 
@@ -40,7 +42,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (context) => LoginProvider()),
       ],
       child: MaterialApp(
-        title: 'Provider Demo',
+        title: 'Gowtham MK',
         theme: ThemeData(
           // This is the theme of your application.
           //

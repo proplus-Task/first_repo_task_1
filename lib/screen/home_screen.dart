@@ -37,6 +37,23 @@ class _HomeScreenState extends State<HomeScreen> {
             height: 20,
           ),
 
+
+SizedBox(
+            height: 20,
+          ),
+
+
+          SizedBox(
+            height: 20,
+          ),
+
+
+          SizedBox(
+            height: 20,
+          ),
+
+
+
           Consumer<Homeproviderpage>(
             builder: (context,prvd,child) {
               return GestureDetector(
